@@ -1,0 +1,33 @@
+typography_spectrum: 0.5144404536113143
+color:
+  brandStrength: 0.35630158660933375
+  lightness: 0.09935097303241491
+  saturation: 0.37809663894586265
+  rhythmicContrast: 0.8507547609042376
+  brandColors:
+    - '#E0F0FF'
+    - '#373C40'
+    - '#161912'
+    - '#935848'
+    - '#8D8F8D'
+github: true
+opengraph:
+  type: Vrijselhof
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea7f7bc5-344e-4d8f-8e5d-066c55e0dc78.jpg
+layout_spectrum: 0.35110544390045106
+author:
+  name: Groene Aap bvba
+  email: info@vrijselhof.be
+  url: www.vrijselhof.be
+name: Vrijselhof
+title: Vrijselhof
+content: []
+description: Bio en meer
+purpose:
+  - type: contact
+    url: 'tel:+32486916965'
+    label: Call +32486916965
+  - type: contact
+    url: 'mailto:travellling.trol@gmail.com'
+    label: email us
